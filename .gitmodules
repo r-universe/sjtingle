@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "rmsMD"]
+	path = rmsMD
+	url = https://github.com/sjtingle/rmsmd
 [submodule "tican"]
 	path = tican
 	url = https://github.com/sjtingle/tican
